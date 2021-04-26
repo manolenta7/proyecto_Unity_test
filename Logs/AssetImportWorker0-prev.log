@@ -15,11 +15,11 @@ C:/Users/josesin/Desktop/Unity proyect/ctt_test_Unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50275
+50014
 Successfully changed project path to: C:/Users/josesin/Desktop/Unity proyect/ctt_test_Unity
 C:/Users/josesin/Desktop/Unity proyect/ctt_test_Unity
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 87.92 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 139.59 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
@@ -35,912 +35,111 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002563 seconds.
+Registered in 0.004543 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 70.36 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 116.43 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.552 seconds
+- Completed reload, in  3.871 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001597 seconds.
+Registered in 0.001849 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 74.62 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 165.51 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.543 seconds
+- Completed reload, in  3.126 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 83.8 MB.
-System memory in use after: 83.8 MB.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.0 MB.
+System memory in use after: 84.0 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2227.
-Total: 2.856100 ms (FindLiveObjects: 0.225900 ms CreateObjectMapping: 0.082600 ms MarkObjects: 2.389000 ms  DeleteObjects: 0.157000 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2233.
+Total: 4.476300 ms (FindLiveObjects: 0.504600 ms CreateObjectMapping: 0.207600 ms MarkObjects: 3.559200 ms  DeleteObjects: 0.200600 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/instrucciones.unity
-  artifactKey: Guid(3c84e55cde6a04344a947e9ef433f67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/instrucciones.unity using Guid(3c84e55cde6a04344a947e9ef433f67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d138042caff8715dabf58234820d7a') in 0.024632 seconds
-  Import took 0.029664 seconds .
+  path: Assets/flecha.cs
+  artifactKey: Guid(7be797e15426d0748aebb92a25f52e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flecha.cs using Guid(7be797e15426d0748aebb92a25f52e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ea528a097cf485c10cd6258ce84135') in 0.395912 seconds
+  Import took 0.401584 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000309 seconds.
-  path: Assets/Scenes/main.unity
-  artifactKey: Guid(ccf2e074594fa33479c785c66d3c2624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/main.unity using Guid(ccf2e074594fa33479c785c66d3c2624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8de18c2e710b3b240bd48e98130a68') in 0.017994 seconds
-  Import took 0.026147 seconds .
+  Time since last request: 79.155404 seconds.
+  path: Assets/flecha.cs
+  artifactKey: Guid(7be797e15426d0748aebb92a25f52e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flecha.cs using Guid(7be797e15426d0748aebb92a25f52e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51098532a0d312bbf15297e9378fb313') in 0.010837 seconds
+  Import took 0.016929 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000086 seconds.
-  path: Assets/Scenes/nivel_1.unity
-  artifactKey: Guid(20d34a22080841c4c8b5d239a9e9aea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/nivel_1.unity using Guid(20d34a22080841c4c8b5d239a9e9aea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fccf7cabcd66c763c27019c07ae937ce') in 0.018692 seconds
-  Import took 0.024436 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 264.187470 seconds.
-  path: Assets/Sprite/Tiles Medieval
-  artifactKey: Guid(9bd23cead5e6d0c478dcd69d5e5472e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval using Guid(9bd23cead5e6d0c478dcd69d5e5472e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90633ad37250c8738db180fc25ef2d3') in 0.018756 seconds
-  Import took 0.024543 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.085640 seconds.
-  path: Assets/Sprite/Tiles Medieval/Medieval.prefab
-  artifactKey: Guid(3eb45504c95ebaf48ae7e0a927dc3fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/Medieval.prefab using Guid(3eb45504c95ebaf48ae7e0a927dc3fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1921e00b10c82070294eaf83f741e3c') in 0.052459 seconds
-  Import took 0.057460 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000317 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile1.asset
-  artifactKey: Guid(4d782782fb94e3848b6913169f9fff62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile1.asset using Guid(4d782782fb94e3848b6913169f9fff62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9a8479ac180fe84e21f7ac1179c74f') in 0.236254 seconds
-  Import took 0.247195 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000362 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile14.asset
-  artifactKey: Guid(5188cbb1812d5ba4eb1e870a6ce90ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile14.asset using Guid(5188cbb1812d5ba4eb1e870a6ce90ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f97104da3dd409a0f2e03ef149cf17') in 0.031942 seconds
-  Import took 0.038605 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile16.asset
-  artifactKey: Guid(162dadc1a22773347b7ea61588a267c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile16.asset using Guid(162dadc1a22773347b7ea61588a267c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9d1d06fcc196f6dd198445cd905799') in 0.045899 seconds
-  Import took 0.054319 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile7.png
-  artifactKey: Guid(9bb0924f86202de488b9c33f5191e5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile7.png using Guid(9bb0924f86202de488b9c33f5191e5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac87a14d4b1d65b44c1ce97dec80bba') in 0.356554 seconds
-  Import took 0.364198 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000358 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile15.asset
-  artifactKey: Guid(97264ee56fb128f44bca85d9e4f89399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile15.asset using Guid(97264ee56fb128f44bca85d9e4f89399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4294c9a760413cb370c944bcb97daf94') in 0.044926 seconds
-  Import took 0.055509 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile19.png
-  artifactKey: Guid(e45a70a0845f0404ca7255fb7cc71faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile19.png using Guid(e45a70a0845f0404ca7255fb7cc71faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb3a15845fac73ffa467422e3353e9c') in 0.028479 seconds
-  Import took 0.034798 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000349 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile19.asset
-  artifactKey: Guid(a7fd6c4b8116c724e87afd6348d4e835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile19.asset using Guid(a7fd6c4b8116c724e87afd6348d4e835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199ebced40ee592608f0a84415910855') in 0.029706 seconds
-  Import took 0.037399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile1.png
-  artifactKey: Guid(e9ee750899e456340a33b31657f06f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile1.png using Guid(e9ee750899e456340a33b31657f06f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0946f0e8a5aa998e99daf27ac096b96') in 0.024293 seconds
-  Import took 0.032135 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000393 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile8.asset
-  artifactKey: Guid(08721c8c6c0ad1547b323d16b6a19f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile8.asset using Guid(08721c8c6c0ad1547b323d16b6a19f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192d23e6714a822f0c6e2ce2030795d6') in 0.029847 seconds
-  Import took 0.036588 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000095 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile18.asset
-  artifactKey: Guid(d62f9dfe1146df94f97d01b04033dd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile18.asset using Guid(d62f9dfe1146df94f97d01b04033dd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207f23e7400d41d788321f92ca267790') in 0.029959 seconds
-  Import took 0.036329 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile15.png
-  artifactKey: Guid(753693a7ed5675847ac5798d8001c525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile15.png using Guid(753693a7ed5675847ac5798d8001c525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe2985b57d0fed6c322c18b84a85531') in 0.033571 seconds
-  Import took 0.040805 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile3.asset
-  artifactKey: Guid(7aa86d4caac2d2a489b79665b82752bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile3.asset using Guid(7aa86d4caac2d2a489b79665b82752bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a23ec239a1525d5a1b78d66125a8b9a0') in 0.028012 seconds
-  Import took 0.035453 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000384 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile7.asset
-  artifactKey: Guid(c63530be85148864d849cece4672ef20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile7.asset using Guid(c63530be85148864d849cece4672ef20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4db5f9bcfccded65adecc4564c7422') in 0.020324 seconds
-  Import took 0.026902 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile13.asset
-  artifactKey: Guid(8fd5447c8e91993429153069dc476b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile13.asset using Guid(8fd5447c8e91993429153069dc476b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4d2248272aa177ac2f5b747d6dc6bc') in 0.041280 seconds
-  Import took 0.054735 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile4.png
-  artifactKey: Guid(a4f19c878bb9a9c4fbd8f1fd136cad88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile4.png using Guid(a4f19c878bb9a9c4fbd8f1fd136cad88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70cf9f8a102ceecae17923f330b519be') in 0.063980 seconds
-  Import took 0.071570 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000411 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile25.png
-  artifactKey: Guid(c04c6c1760c70b64480fe01b0f72b347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile25.png using Guid(c04c6c1760c70b64480fe01b0f72b347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '327ea43e006e77bd0cd0ee146e6d5dce') in 0.023079 seconds
-  Import took 0.028374 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000348 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile25.asset
-  artifactKey: Guid(085f7f145faa0b647b3c7aa79b29cbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile25.asset using Guid(085f7f145faa0b647b3c7aa79b29cbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb84625a8c570f4709b73d01e4d9d4d1') in 0.017118 seconds
-  Import took 0.023822 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile22.png
-  artifactKey: Guid(7b37c404668ea3d4284c2e9fead890d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile22.png using Guid(7b37c404668ea3d4284c2e9fead890d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c6a906979b88e541bd5afc2f82d6d8') in 0.023403 seconds
-  Import took 0.029098 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile16.png
-  artifactKey: Guid(9f53cd0d8d2fcc949b66b9d759e2be38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile16.png using Guid(9f53cd0d8d2fcc949b66b9d759e2be38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb571604f54ce36f46e99f5c4df1e85') in 0.023163 seconds
-  Import took 0.028834 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile8.png
-  artifactKey: Guid(32c53e0d055867e448c333d31c049789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile8.png using Guid(32c53e0d055867e448c333d31c049789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f0fc6ec8ff40bf0522ffe66ab58562e') in 0.035360 seconds
-  Import took 0.041951 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000346 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile13.png
-  artifactKey: Guid(55539dc97f715734799ee82090e79106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile13.png using Guid(55539dc97f715734799ee82090e79106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd438805dcc22f34bf898a98fbfcab999') in 0.023734 seconds
-  Import took 0.047327 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000354 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile9.png
-  artifactKey: Guid(84fa43f9f5027b245974cc1fe992e6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile9.png using Guid(84fa43f9f5027b245974cc1fe992e6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a98b2fbd5be32845399ef7f93d7166') in 0.030951 seconds
-  Import took 0.036287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile2.asset
-  artifactKey: Guid(f55c04db7424b854ca8f66227b14d280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile2.asset using Guid(f55c04db7424b854ca8f66227b14d280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5689d3d7d9eff953c8138c9bfb7162') in 0.026664 seconds
-  Import took 0.033369 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000379 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile9.asset
-  artifactKey: Guid(af521d6f3793dd84db3f6d3b467f69d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile9.asset using Guid(af521d6f3793dd84db3f6d3b467f69d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd18ca555afdfe2be76d988fa9c8b155') in 0.019143 seconds
-  Import took 0.027176 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000489 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile14.png
-  artifactKey: Guid(4bb9d630e05c7ef4cb74f3f6c005a49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile14.png using Guid(4bb9d630e05c7ef4cb74f3f6c005a49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd43bf32ebb7ac9035931bab29fabedc') in 0.022181 seconds
-  Import took 0.027755 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile6.asset
-  artifactKey: Guid(2abece572d25d644db1bfb950e477c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile6.asset using Guid(2abece572d25d644db1bfb950e477c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f42a083e8b9e62b7ca5c31832cb66d0b') in 0.021979 seconds
-  Import took 0.027845 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000331 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile10.asset
-  artifactKey: Guid(91788af2197b5114d90bde31eac26a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile10.asset using Guid(91788af2197b5114d90bde31eac26a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c828e74b859a6cf4b9bf8ea6af4a5f0') in 0.036840 seconds
-  Import took 0.044017 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000326 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile5.asset
-  artifactKey: Guid(09846023af5f2854bb3ae7bdd6145619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile5.asset using Guid(09846023af5f2854bb3ae7bdd6145619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd069a8a5c013da3592666cacc2601a83') in 0.027507 seconds
-  Import took 0.034024 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile10.png
-  artifactKey: Guid(71956589bf54b4a45a0fb8c318c9f001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile10.png using Guid(71956589bf54b4a45a0fb8c318c9f001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc446728924c51c8e153bd94ed7427ce') in 0.018594 seconds
-  Import took 0.025316 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000368 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile21.png
-  artifactKey: Guid(fdd54a69709c2a54b972942ed69d1a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile21.png using Guid(fdd54a69709c2a54b972942ed69d1a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474a859ebc13bd82bc10046c2668f7f6') in 0.025039 seconds
-  Import took 0.031353 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile24.png
-  artifactKey: Guid(da1ab150b9567af49953343bdef48a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile24.png using Guid(da1ab150b9567af49953343bdef48a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed073077e9baca3f0c2cd713b5014b9f') in 0.023764 seconds
-  Import took 0.029085 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000574 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile11.asset
-  artifactKey: Guid(6e80a006bac7f2f459759e6a38b9ef4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile11.asset using Guid(6e80a006bac7f2f459759e6a38b9ef4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60e665e05902e7ed647f3c49f530c97') in 0.021441 seconds
-  Import took 0.027781 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000297 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile20.asset
-  artifactKey: Guid(cd0dfde4f5eeb3f43bb32698d65e0588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile20.asset using Guid(cd0dfde4f5eeb3f43bb32698d65e0588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd119d63b994b1689917d04e0193b2f7') in 0.019132 seconds
-  Import took 0.025140 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000342 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile23.png
-  artifactKey: Guid(1ee2e17e9738cee4da766ac65927fd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile23.png using Guid(1ee2e17e9738cee4da766ac65927fd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9e188599e86081a33096338b37e8b6') in 0.026883 seconds
-  Import took 0.033482 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile12.png
-  artifactKey: Guid(e4d9c0483d955d243a62810d1611b6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile12.png using Guid(e4d9c0483d955d243a62810d1611b6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b9ba4461d8a988dcd3d6a73a3792eb') in 0.021028 seconds
-  Import took 0.026613 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile18.png
-  artifactKey: Guid(81f1935cf2bb9ee4eb31b76f42da6d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile18.png using Guid(81f1935cf2bb9ee4eb31b76f42da6d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750cefdc7c9ec63fe2e1375f9ae8f2f9') in 0.024996 seconds
-  Import took 0.031803 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000328 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile6.png
-  artifactKey: Guid(c2a9ecfa2e7c52048823acf505685c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile6.png using Guid(c2a9ecfa2e7c52048823acf505685c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '415361be95196bfc9f4461f164e2a744') in 0.019533 seconds
-  Import took 0.025354 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile30.asset
-  artifactKey: Guid(2f9db795990457c41a6b691f56262a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile30.asset using Guid(2f9db795990457c41a6b691f56262a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740776db580f3f7c5b9c547b10921518') in 0.020956 seconds
-  Import took 0.028347 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000567 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile27.png
-  artifactKey: Guid(9525b4fb8db893f4c9fe014009e0eab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile27.png using Guid(9525b4fb8db893f4c9fe014009e0eab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ba124b24e532175835a7f6160798bb') in 0.022343 seconds
-  Import took 0.028290 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile26.asset
-  artifactKey: Guid(838f10126f3b8d94fa66fccbc03afb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile26.asset using Guid(838f10126f3b8d94fa66fccbc03afb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d89bf4d91ef25f75566eba3362222c2') in 0.018242 seconds
-  Import took 0.023670 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000333 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile27.asset
-  artifactKey: Guid(f2bb54d48f815a9448a60fd1be5b410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile27.asset using Guid(f2bb54d48f815a9448a60fd1be5b410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee2ebc9007710c691b80a500fa2698d') in 0.017034 seconds
-  Import took 0.023727 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000338 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile29.asset
-  artifactKey: Guid(0f38c06b11f87ef40a24287114fae21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile29.asset using Guid(0f38c06b11f87ef40a24287114fae21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e11b4d2891618d89762a99170d5fb5') in 0.020201 seconds
-  Import took 0.025465 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile30.png
-  artifactKey: Guid(a197e012aa5bb1345a7ab8cd93962804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile30.png using Guid(a197e012aa5bb1345a7ab8cd93962804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92ac33b25b92d6eef7201b268b02a85') in 0.019617 seconds
-  Import took 0.040708 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000357 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile26.png
-  artifactKey: Guid(5355997a014b21c4aa64e3d547ee80be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile26.png using Guid(5355997a014b21c4aa64e3d547ee80be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9495b4cf3c1d56c89e3e166353acc7') in 0.021253 seconds
-  Import took 0.026548 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000353 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile29.png
-  artifactKey: Guid(bea380bc6c430984f9f5f6f44724e971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile29.png using Guid(bea380bc6c430984f9f5f6f44724e971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aac52bd6a72474bba2a8dc0e8b1ad45') in 0.048100 seconds
-  Import took 0.054533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile20.png
-  artifactKey: Guid(abe9dc7e2d8704c4480220984cd2e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile20.png using Guid(abe9dc7e2d8704c4480220984cd2e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4688ee209c03bf02239dceb62163d6ea') in 0.021294 seconds
-  Import took 0.028473 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000463 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile4.asset
-  artifactKey: Guid(802b66e4e254b264f9839eeb21882da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile4.asset using Guid(802b66e4e254b264f9839eeb21882da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18def87a5dd74d8631a1ef0dd014ec64') in 0.016639 seconds
-  Import took 0.021943 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile28.png
-  artifactKey: Guid(c0647fc09daee6746b10a4ec8796550f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile28.png using Guid(c0647fc09daee6746b10a4ec8796550f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d85db798d6f128dfad61c67a91dcb6') in 0.024125 seconds
-  Import took 0.029992 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000409 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile2.png
-  artifactKey: Guid(3cc2b837c823bed4ab554bc5da507f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile2.png using Guid(3cc2b837c823bed4ab554bc5da507f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b38cbfcab4cf80e71fea3ddb35a2c53') in 0.020206 seconds
-  Import took 0.025851 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile32.asset
-  artifactKey: Guid(fa3d8f313e3da684db6b7a542a8fd5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile32.asset using Guid(fa3d8f313e3da684db6b7a542a8fd5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2902d85fedf11975998cbb1568acd4f') in 0.017885 seconds
-  Import took 0.023859 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile31.png
-  artifactKey: Guid(bc07cb320a345a745a16453fc8a73c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile31.png using Guid(bc07cb320a345a745a16453fc8a73c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a5327f1ed0906026a23913488b7649') in 0.023365 seconds
-  Import took 0.028716 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile33.asset
-  artifactKey: Guid(4a63db8773ff15b4a8f239b4b016db31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile33.asset using Guid(4a63db8773ff15b4a8f239b4b016db31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35405844bccc51252ee45bc80a93e68f') in 0.023896 seconds
-  Import took 0.029517 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile37.asset
-  artifactKey: Guid(6e4631d1e3be517409002a063aa21692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile37.asset using Guid(6e4631d1e3be517409002a063aa21692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72e1bf210738f0f9d9fc5b11f967d55') in 0.020959 seconds
-  Import took 0.027796 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile44.png
-  artifactKey: Guid(ad497fc010753484895ad96f2c4541e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile44.png using Guid(ad497fc010753484895ad96f2c4541e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f674bdf34364b4bd715582e92b7a25') in 0.025033 seconds
-  Import took 0.031191 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile45.asset
-  artifactKey: Guid(114fce7c799a29448b1421c42209563d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile45.asset using Guid(114fce7c799a29448b1421c42209563d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81eb63194ec080dece2623e1a0bda28') in 0.022568 seconds
-  Import took 0.029405 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile39.asset
-  artifactKey: Guid(f4bc14058939be448911e4fccca48d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile39.asset using Guid(f4bc14058939be448911e4fccca48d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1723aa3eceff1700a7449c79f36cfcf3') in 0.018158 seconds
-  Import took 0.023799 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile41.asset
-  artifactKey: Guid(e2421f04ff90ec846b635af3f5273fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile41.asset using Guid(e2421f04ff90ec846b635af3f5273fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088df6e29b2d788f03bce478ea4b5c03') in 0.022208 seconds
-  Import took 0.030159 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000323 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile36.png
-  artifactKey: Guid(1ae0f51b21e7bb342b709984458b2adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile36.png using Guid(1ae0f51b21e7bb342b709984458b2adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f1f4e0482d109378a3e442dcf5d623') in 0.020184 seconds
-  Import took 0.035680 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000277 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile50.asset
-  artifactKey: Guid(42e7034726601004f8c23bca8e15b506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile50.asset using Guid(42e7034726601004f8c23bca8e15b506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2843c50852d1b9858429492d599a55c0') in 0.024431 seconds
-  Import took 0.032251 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile48.asset
-  artifactKey: Guid(b9a20375ca191004697b3d03e01b4cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile48.asset using Guid(b9a20375ca191004697b3d03e01b4cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660da20b72343f86f40633b3c4ac6d7d') in 0.030342 seconds
-  Import took 0.037091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000309 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile45.png
-  artifactKey: Guid(11ab00c5e1541d14da49c944491df63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile45.png using Guid(11ab00c5e1541d14da49c944491df63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311cbfbe843fb9793d0b53f36a87bf67') in 0.018890 seconds
-  Import took 0.027742 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000376 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile46.asset
-  artifactKey: Guid(2e32b48e2b993324b8bbfb4670b8a072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile46.asset using Guid(2e32b48e2b993324b8bbfb4670b8a072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff774a5bc46b57585449ea5ad47b9a6') in 0.019578 seconds
-  Import took 0.027078 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000403 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile49.asset
-  artifactKey: Guid(a252c7ec7a4d2124db853d28f10b6c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile49.asset using Guid(a252c7ec7a4d2124db853d28f10b6c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b746473380c799ec8277e5cc12e055') in 0.023366 seconds
-  Import took 0.028894 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000419 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile48.png
-  artifactKey: Guid(a144827aa011fa048bba4b789331d95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile48.png using Guid(a144827aa011fa048bba4b789331d95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ebac07551910f9ba5c1d7c795abd45') in 0.018861 seconds
-  Import took 0.024135 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile46.png
-  artifactKey: Guid(bfc9e5a3eb4a45a4594b1fe121fe001e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile46.png using Guid(bfc9e5a3eb4a45a4594b1fe121fe001e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5887fb0039f657887d984e14a7afec') in 0.018182 seconds
-  Import took 0.025161 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile50.png
-  artifactKey: Guid(af234568cdb086544a4373a522fdd0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile50.png using Guid(af234568cdb086544a4373a522fdd0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb663609e6ea06bff90f32da10256f9c') in 0.020041 seconds
-  Import took 0.029747 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000344 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile36.asset
-  artifactKey: Guid(3947495f2a8883b4897db348f2b90afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile36.asset using Guid(3947495f2a8883b4897db348f2b90afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7291028c3676e304cff4c62a49439af') in 0.018778 seconds
-  Import took 0.025108 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile39.png
-  artifactKey: Guid(08bccd7a5eb49174b8820cfd68b98d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile39.png using Guid(08bccd7a5eb49174b8820cfd68b98d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c64105c8c1efa36fbb05a2a7bccbfd0') in 0.022683 seconds
-  Import took 0.029472 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile49.png
-  artifactKey: Guid(e539ff11f7927424d928b2313e0f018b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile49.png using Guid(e539ff11f7927424d928b2313e0f018b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b76d6934847b00fb0b391c8ef933b7') in 0.020026 seconds
-  Import took 0.026265 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000309 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile42.png
-  artifactKey: Guid(0dbdf762c2949e941b6074e5ea6d6b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile42.png using Guid(0dbdf762c2949e941b6074e5ea6d6b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6670d78812d346625f0ba92e86ebfdfe') in 0.023404 seconds
-  Import took 0.028978 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile43.asset
-  artifactKey: Guid(4e65a6530d242e74f87fa7d4baa89aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile43.asset using Guid(4e65a6530d242e74f87fa7d4baa89aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd528e31577c93d96df795dee6d6cc9') in 0.021593 seconds
-  Import took 0.027249 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile35.png
-  artifactKey: Guid(1afe88b0e3bd0284fb686dccd7a08086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile35.png using Guid(1afe88b0e3bd0284fb686dccd7a08086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69a92c2a3b8ed73308dcd61dee279ff') in 0.024007 seconds
-  Import took 0.029524 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile47.asset
-  artifactKey: Guid(9eef58c0a7ad9c04da378bf8379beb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile47.asset using Guid(9eef58c0a7ad9c04da378bf8379beb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb416f41bbbc2f7bddf10b411e7704da') in 0.022879 seconds
-  Import took 0.027477 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile35.asset
-  artifactKey: Guid(f2fefae7d48d4ac499981fdebb36d1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile35.asset using Guid(f2fefae7d48d4ac499981fdebb36d1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa518b56616a951c23b5c2fba529f198') in 0.017075 seconds
-  Import took 0.023174 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000502 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile42.asset
-  artifactKey: Guid(0ce4764822c29b3478f1af4fadc92aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile42.asset using Guid(0ce4764822c29b3478f1af4fadc92aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04154befeb7b63fcbc40569c096db3aa') in 0.018581 seconds
-  Import took 0.025265 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile31.asset
-  artifactKey: Guid(57a1f78b5795f3e478123b199fa1ae34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile31.asset using Guid(57a1f78b5795f3e478123b199fa1ae34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450cf8e1c9980e6da03040b66f120095') in 0.012019 seconds
-  Import took 0.017081 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile32.png
-  artifactKey: Guid(8ed3132cb8b73d64b97139eae540ce62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile32.png using Guid(8ed3132cb8b73d64b97139eae540ce62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d115abb3a5b857b19fdb40b78b460e3') in 0.019986 seconds
-  Import took 0.024644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile41.png
-  artifactKey: Guid(cb06802b762428f4c85ec478ae6a9e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile41.png using Guid(cb06802b762428f4c85ec478ae6a9e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3724a131a2813c2476b2d765a16d72b') in 0.020995 seconds
-  Import took 0.026872 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile38.asset
-  artifactKey: Guid(c84df7fadd71abe4f933dbb30225e9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile38.asset using Guid(c84df7fadd71abe4f933dbb30225e9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0397449cc362b856a58c8f67aea66877') in 0.022220 seconds
-  Import took 0.027776 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile40.asset
-  artifactKey: Guid(44cfe7a23dc909942b62c33a316aeb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile40.asset using Guid(44cfe7a23dc909942b62c33a316aeb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95cd9ec2f03db32847fa80901f974680') in 0.023431 seconds
-  Import took 0.029714 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000330 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile37.png
-  artifactKey: Guid(42f70a458a1f0494a8f9bb437f4f02c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile37.png using Guid(42f70a458a1f0494a8f9bb437f4f02c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeeb86b505ceedc5ea7fdf2fa8d2f606') in 0.065687 seconds
-  Import took 0.071448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile33.png
-  artifactKey: Guid(a260a38426b7a0647be67d6baec5eb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile33.png using Guid(a260a38426b7a0647be67d6baec5eb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '616ceff96ba015bfdfef12481f3f57a2') in 0.024684 seconds
-  Import took 0.030919 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile34.asset
-  artifactKey: Guid(6007a882b48f56e48b2e626e998a101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile34.asset using Guid(6007a882b48f56e48b2e626e998a101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be852167d7186c87362d28e42a19900') in 0.022006 seconds
-  Import took 0.027476 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile44.asset
-  artifactKey: Guid(9eb80b80f52e6e0408388153b40d3e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile44.asset using Guid(9eb80b80f52e6e0408388153b40d3e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872eccb572a0f7e6902ff9087f477caa') in 0.016518 seconds
-  Import took 0.023337 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000346 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile47.png
-  artifactKey: Guid(bd5c064b10a981d43af58d3bd22ca769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile47.png using Guid(bd5c064b10a981d43af58d3bd22ca769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ad0c35940c79ea0b7e6f5da494aee8') in 0.020731 seconds
-  Import took 0.025473 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile24.asset
-  artifactKey: Guid(b07f19b2221c63245be58d5f92c59c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile24.asset using Guid(b07f19b2221c63245be58d5f92c59c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84d7e35599a514e81bbab48d85ced8c') in 0.016172 seconds
-  Import took 0.022557 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile28.asset
-  artifactKey: Guid(2b960c2b4e9022f43939f6aec5df0d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile28.asset using Guid(2b960c2b4e9022f43939f6aec5df0d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790a33520f2d344867e3dac354e37d81') in 0.018471 seconds
-  Import took 0.037065 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile17.asset
-  artifactKey: Guid(d8e664946d2035841969f29e1b6eee22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile17.asset using Guid(d8e664946d2035841969f29e1b6eee22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759d3fd2afd2ec814493666ed4e68e5f') in 0.023703 seconds
-  Import took 0.030393 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile21.asset
-  artifactKey: Guid(5617795cafb98ce458e09d934a556383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile21.asset using Guid(5617795cafb98ce458e09d934a556383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5605048dfde372fe9cce55e718317d02') in 0.022970 seconds
-  Import took 0.029290 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile22.asset
-  artifactKey: Guid(d3431a21aac786d4a86303d7ae9c421f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile22.asset using Guid(d3431a21aac786d4a86303d7ae9c421f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5000acc60764026b94d1634af34f8790') in 0.015246 seconds
-  Import took 0.021365 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000352 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile34.png
-  artifactKey: Guid(84f2e8832ef02be47a93ccdcf6b189b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile34.png using Guid(84f2e8832ef02be47a93ccdcf6b189b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ae0f2799d8018dca2b86c197414c0e0') in 0.028821 seconds
-  Import took 0.035729 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile38.png
-  artifactKey: Guid(f3254556c2e674e429f8b613f2d2bc28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile38.png using Guid(f3254556c2e674e429f8b613f2d2bc28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbbe93dc120d90065b214c5d99ac379a') in 0.018877 seconds
-  Import took 0.024151 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile40.png
-  artifactKey: Guid(fc29c224a52b18b428d73a8d9fb3319f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile40.png using Guid(fc29c224a52b18b428d73a8d9fb3319f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b233d86de7fb6170fccf8f2588c969b7') in 0.032959 seconds
-  Import took 0.038643 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000377 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile5.png
-  artifactKey: Guid(a2b1068f8328d8544a7d9c5bf7cf9e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile5.png using Guid(a2b1068f8328d8544a7d9c5bf7cf9e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5700caef0b2f253b58f09dc756b1317') in 0.018349 seconds
-  Import took 0.025246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile17.png
-  artifactKey: Guid(889a2f72e2fec5543ba27640e182e071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile17.png using Guid(889a2f72e2fec5543ba27640e182e071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfed88b2f0c31dfdab2ce0b68c68db7c') in 0.021540 seconds
-  Import took 0.027245 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000354 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile3.png
-  artifactKey: Guid(c8668484ee6ca7f4593c93649bcdf7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile3.png using Guid(c8668484ee6ca7f4593c93649bcdf7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7063644b16acc44f854484d0eca1296c') in 0.021619 seconds
-  Import took 0.027067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile11.png
-  artifactKey: Guid(436b6b1a9a135084a9293c904a827bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile11.png using Guid(436b6b1a9a135084a9293c904a827bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dca03ef40d87b9b601779e0d202dd2c') in 0.023048 seconds
-  Import took 0.029744 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000638 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile23.asset
-  artifactKey: Guid(06a1f1e74dcb34a43924e51b16cfb99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile23.asset using Guid(06a1f1e74dcb34a43924e51b16cfb99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86f18ddc2f439f35bec61879c4da514') in 0.027152 seconds
-  Import took 0.034126 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile12.asset
-  artifactKey: Guid(a5aa87b9588b7c146bc342aa146f390e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile12.asset using Guid(a5aa87b9588b7c146bc342aa146f390e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f232c273d792398b9d774201095789c6') in 0.015360 seconds
-  Import took 0.021999 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000094 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile43.png
-  artifactKey: Guid(c314ee6b16dffcb4882a391fd24f60b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile43.png using Guid(c314ee6b16dffcb4882a391fd24f60b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c575d77f122b247a39917c82b4eb27') in 0.028237 seconds
-  Import took 0.037088 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000390 seconds.
-  path: Assets/Sprite/Tiles Medieval/tile23.asset
-  artifactKey: Guid(06a1f1e74dcb34a43924e51b16cfb99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Tiles Medieval/tile23.asset using Guid(06a1f1e74dcb34a43924e51b16cfb99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86f18ddc2f439f35bec61879c4da514') in 0.013716 seconds
-  Import took 0.021465 seconds .
+  Time since last request: 0.003816 seconds.
+  path: Assets/flecha.cs
+  artifactKey: Guid(7be797e15426d0748aebb92a25f52e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flecha.cs using Guid(7be797e15426d0748aebb92a25f52e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51098532a0d312bbf15297e9378fb313') in 0.022973 seconds
+  Import took 0.040719 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001660 seconds.
+Registered in 0.002742 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.764 seconds
+- Completed reload, in  2.046 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.94 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.3 MB.
-System memory in use after: 87.3 MB.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.1 MB.
+System memory in use after: 84.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2238.
-Total: 2.796800 ms (FindLiveObjects: 0.232800 ms CreateObjectMapping: 0.077100 ms MarkObjects: 2.355000 ms  DeleteObjects: 0.130100 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2236.
+Total: 3.805300 ms (FindLiveObjects: 0.892800 ms CreateObjectMapping: 0.278100 ms MarkObjects: 2.488200 ms  DeleteObjects: 0.144100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004354 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.027 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.2 MB.
+System memory in use after: 84.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2239.
+Total: 23.928700 ms (FindLiveObjects: 0.777800 ms CreateObjectMapping: 0.126500 ms MarkObjects: 22.860300 ms  DeleteObjects: 0.161200 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
