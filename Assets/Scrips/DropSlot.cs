@@ -7,6 +7,8 @@ public class DropSlot : MonoBehaviour,IDropHandler
 {
     public GameObject item;
 
+    //public int[] vectorSlot = new int[] { 0, 1, 2, 3, 4, 5 };
+
     void Start()
     {
 
