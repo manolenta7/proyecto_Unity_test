@@ -10,6 +10,8 @@ public class DragHandler: MonoBehaviour, IDragHandler, IEndDragHandler, IBeginDr
     Transform starParent;
     Transform dragParent;
 
+    public GameObject prefab;
+
     void Start()
     {
         dragParent = GameObject.FindGameObjectWithTag("DragParent").transform;
@@ -26,6 +28,11 @@ public class DragHandler: MonoBehaviour, IDragHandler, IEndDragHandler, IBeginDr
         transform.SetParent(dragParent);
     }
 
+    void IDragHandler.OnDrag(PointerEventData eventData) {
+        Debug.Log("OnDrag");
+        transform.position = Input.mousePosition;
+    }
+
     public void OnEndDrag(PointerEventData eventData)
     {
         Debug.Log("OnEndDrag");
@@ -34,16 +41,17 @@ public class DragHandler: MonoBehaviour, IDragHandler, IEndDragHandler, IBeginDr
         if (transform.parent == dragParent){
             transform.position = starPosition;
             transform.SetParent(starParent);
+
         }
+        else {
+            Instantiate(prefab,starParent);
+        }
+        
 
 
     }
 
-    void IDragHandler.OnDrag(PointerEventData eventData)
-    {
-        Debug.Log("OnDrag");
-        transform.position = Input.mousePosition;
-    }
+   
 
    
     void Update()

@@ -59,12 +59,12 @@
     <Compile Include="Assets\Scrips\DropSlot.cs" />
     <Compile Include="Assets\Scrips\DragHandler.cs" />
     <Compile Include="Assets\Scrips\PlayerControl.cs" />
+    <Compile Include="Assets\Scrips\ControladorMovimiento.cs" />
     <Compile Include="Assets\Scrips\ID_Slot.cs" />
     <Compile Include="Assets\Scrips\DireccionFlecha.cs" />
     <Compile Include="Assets\Scrips\ItemPool.cs" />
     <Compile Include="Assets\Scrips\SlotVector.cs" />
     <Compile Include="Assets\Scenes\CambioMenu.cs" />
-    <Compile Include="Assets\Scrips\ControladorMovimiento.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
