@@ -10,6 +10,7 @@ TagManager:
   - FlechaRight
   - FlechaLeft
   - Plataformas
+  - Box
   layers:
   - Default
   - TransparentFX

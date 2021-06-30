@@ -24,7 +24,7 @@ public class PlayerControl : MonoBehaviour {
         if (Input.GetKey(KeyCode.R)){
             Debug.Log("me muevo :V"); 
 
-            for (int i = 0; vectorSlotPlayer[i] < 6; i++) {
+            for (int i = 0; vectorSlotPlayer[i] <= 6; i++) {
                 Debug.Log("Entre al For");
                 if (vectorSlotPlayer[i] == num.IdSlot) {
                     Debug.Log("Entre al primer IF");
